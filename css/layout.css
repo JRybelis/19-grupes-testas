@@ -1,9 +1,12 @@
 .redBackground {
     background-color: red;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    padding: 20px;
 }
 p {
     font-size: 17px;
-    text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-transform: capitalize;   
 }
